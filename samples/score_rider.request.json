@@ -1,0 +1,7 @@
+{
+  "prompt": "Slow western film score, fingerpicked acoustic guitar and soft harmonica over a warm string pad, 80 BPM, golden-hour mood, no vocals, cinematic",
+  "audio_end_in_s": 11.0,
+  "num_inference_steps": 100,
+  "guidance_scale": 7.0,
+  "seed": 1
+}

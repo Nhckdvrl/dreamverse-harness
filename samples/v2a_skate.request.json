@@ -1,0 +1,9 @@
+{
+  "prompt": "skateboarding in an outdoor skate park, wheels on concrete",
+  "negative_prompt": "music",
+  "audio_end_in_s": 5.0,
+  "num_inference_steps": 25,
+  "guidance_scale": 4.5,
+  "seed": 42,
+  "video_reference": "<data url omitted>"
+}

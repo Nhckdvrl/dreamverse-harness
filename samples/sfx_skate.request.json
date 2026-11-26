@@ -1,0 +1,7 @@
+{
+  "prompt": "Skateboard wheels rolling on smooth concrete, a sharp ollie pop, then a landing clack, outdoor skate park ambience",
+  "audio_end_in_s": 6.0,
+  "num_inference_steps": 100,
+  "guidance_scale": 7.0,
+  "seed": 1
+}
